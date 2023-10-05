@@ -17,7 +17,7 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `continuous_pdf_3d_visualization/`: A 3D visualizer for continuous probability distributions.
   - `discrete_pmf_2d_visualization/`: A 2D visualizer for discrete probability mass functions.
   - `discrete_pmf_3d_visualization/`: A 3D visualizer for discrete probability mass functions.
-- `assets/`: Contains various assets for the project such as example images.
+  - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
 
