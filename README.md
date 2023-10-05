@@ -39,6 +39,9 @@ Implemented the framework.
 ## Usage
 
 1. Clone the repository.
+```
+git clone https://github.com/J6mesQian/interactive-prob
+```
 2. Navigate to the desired sub-directory.
 3. Follow the README within each sub-directory for detailed instructions.
 
