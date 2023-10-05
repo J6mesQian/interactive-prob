@@ -1,4 +1,4 @@
-# Interactive Probability Learning Project
+# Interactive Probability Learning
 
 Welcome to the Interactive Probability Learning Project. This repository aims to provide intuitive visualizations and understanding of various Probability Distribution Functions (PDFs) and Probability Mass Functions (PMFs).
 
@@ -46,11 +46,11 @@ Implemented the framework.
 
 Here's an example of a trinomial visualization:
 
-![Trinomial Visualization](assets/trinomial_visualization.png)
+![Trinomial Visualization](pdf_pmf_visualization/assets/trinomial_visualization.png)
 
 ## Contributing & Feedback
 
-Feel free to fork, submit pull requests, or provide feedback on any issues you might find. We appreciate your contributions to making this tool better!
+Feel free to fork, submit pull requests, or provide feedback on any issues you might find. We appreciate your contributions to making this tool better.
 
 ## License
 

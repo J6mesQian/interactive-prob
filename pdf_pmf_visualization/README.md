@@ -48,7 +48,7 @@ Navigate to the folder containing the desired program. Run the program, and you 
 
 ## Contributing & Feedback
 
-Feel free to fork, submit pull requests, or provide feedback on any issues you might find. We appreciate your contributions to making this tool better!
+Feel free to fork, submit pull requests, or provide feedback on any issues you might find. We appreciate your contributions to making this tool better.
 
 ## License
 
