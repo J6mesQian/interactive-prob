@@ -21,7 +21,14 @@ pip install numpy matplotlib ipywidgets scipy IPython
 
 ## Supported Distributions
 
-#### For `continuous_pdf_2d_visualization` and `continuous_pdf_3d_visualization`:
+#### For `discrete_pmf_2d_visualization`:
+
+- Binomial
+- Negative Binomial
+- Hypergeometric
+- Poisson
+
+#### For `continuous_pdf_2d_visualization`
 
 - Gaussian
 - Cauchy
@@ -30,16 +37,12 @@ pip install numpy matplotlib ipywidgets scipy IPython
 - Chi-Square
 - Beta
 
-#### For `discrete_pmf_2d_visualization`:
-
-- Binomial
-- Negative Binomial
-- Hypergeometric
-- Poisson
-
 #### For `discrete_pmf_3d_visualization`:
 
 - Trinomial
+
+#### For `continuous_pdf_2d_visualization`
+
 - Bivariate Gaussian
 
 ## Usage
