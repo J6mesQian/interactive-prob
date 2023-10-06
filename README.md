@@ -20,20 +20,31 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 0.5.1** (2023/10/05)  
+Improve the overall user experience in interactive visualizations.
 
-**Version 0.0.4** (2023/10/05)  
-Added `discrete_pmf_3d_visualization`.
-
-**Version 0.0.3** (2023/10/03)  
-Added `discrete_pmf_2d_visualization`.
-
-**Version 0.0.2** (2023/09/30)  
+**Version 0.5.0** (2023/10/04)  
 Added `continuous_pdf_3d_visualization`.
 
-**Version 0.0.1** (2023/09/26)  
+**Version 0.4.1** (2023/10/03)  
+Fix several bugs in  `continuous_pdf_2d_visualization`.
+
+**Version 0.4.0** (2023/10/02)  
 Added `continuous_pdf_2d_visualization`.
 
-**Version 0.0.0** (2023/09/23)  
+**Version 0.3.1** (2023/10/01)  
+Fix several bugs in  `discrete_pmf_3d_visualization`.
+
+**Version 0.3.0** (2023/09/30)  
+Added `discrete_pmf_3d_visualization`.
+
+**Version 0.2.1** (2023/09/28)  
+Fix several bugs in `discrete_pmf_2d_visualization`.
+
+**Version 0.2.0** (2023/09/26)  
+Added `discrete_pmf_2d_visualization`.
+
+**Version 0.1.0** (2023/09/23)  
 Implemented the framework.
 
 ## Usage
