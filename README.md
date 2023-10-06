@@ -58,9 +58,10 @@ git clone https://github.com/J6mesQian/interactive-prob
 
 ## Example Visualizations
 
-Here's an example of a trinomial visualization:
+Here's an example of a trinomial distribution and bivariate gaussian distribution visualization
 
-![Trinomial Visualization](pdf_pmf_visualization/assets/trinomial_visualization.png)
+![Trinomial Distribution Visualization](pdf_pmf_visualization/assets/trinomial_visualization.png)
+![Bivariate Gaussian Distribution Visualization](pdf_pmf_visualization/assets/bivariate_gaussian_visualization.png)
 
 ## Contributing & Feedback
 
