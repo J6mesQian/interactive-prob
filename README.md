@@ -20,6 +20,9 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 0.5.2** (2023/10/0)  
+Added `tri-hypergeometric` in `continuous_pdf_3d_visualization`.
+
 **Version 0.5.1** (2023/10/05)  
 Improve the overall user experience in interactive visualizations.
 

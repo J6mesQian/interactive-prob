@@ -40,6 +40,7 @@ pip install numpy matplotlib ipywidgets scipy IPython
 #### For `discrete_pmf_3d_visualization`:
 
 - Trinomial
+- Tri-hypergeometric
 
 #### For `continuous_pdf_2d_visualization`
 
