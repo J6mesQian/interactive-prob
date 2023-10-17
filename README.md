@@ -20,6 +20,9 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 0.5.5** (2023/10/17)
+Improve the overall user experience in interactive visualizations.
+
 **Version 0.5.4** (2023/10/16)
 Fixed several bugs in `continuous_pdf_2d_visualization` and added `possion approximation` & `binomial approximation` in `discrete_pmf_2d_visualization`.
 
