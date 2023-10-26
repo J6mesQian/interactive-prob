@@ -13,48 +13,51 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
 ## Directory Structure
 
 - `pdf_pmf_visualization/`: Contains the main visualization tools. 
-  - `continuous_pdf_2d_visualization/`: A 2D visualizer for continuous probability distributions.
-  - `continuous_pdf_3d_visualization/`: A 3D visualizer for continuous probability distributions.
-  - `discrete_pmf_2d_visualization/`: A 2D visualizer for discrete probability mass functions.
-  - `discrete_pmf_3d_visualization/`: A 3D visualizer for discrete probability mass functions.
+  - `continuous_pdf_1d_visualization/`: A 2D visualizer for 1D continuous probability distributions.
+  - `continuous_pdf_2d_visualization/`: A 3D visualizer for 2D continuous probability distributions.
+  - `discrete_pmf_1d_visualization/`: A 2D visualizer for 1D discrete probability mass functions.
+  - `discrete_pmf_2d_visualization/`: A 3D visualizer for 2D discrete probability mass functions.
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 0.5.6** (2023/10/25)
+Fixed several bugs in `continuous_pdf_1d_visualization` and `continuous_pdf_2d_visualization`.
+
 **Version 0.5.5** (2023/10/17)
 Improve the overall user experience in interactive visualizations.
 
 **Version 0.5.4** (2023/10/16)
-Fixed several bugs in `continuous_pdf_2d_visualization` and added `possion approximation` & `binomial approximation` in `discrete_pmf_2d_visualization`.
+Fixed several bugs in `continuous_pdf_1d_visualization` and added `possion approximation` & `binomial approximation` in `discrete_pmf_1d_visualization`.
 
 **Version 0.5.3** (2023/10/14)
 Improve the overall user experience in interactive visualizations.
 
 **Version 0.5.2** (2023/10/10)
-Added `tri-hypergeometric` in `continuous_pdf_3d_visualization`.
+Added `tri-hypergeometric` in `continuous_pdf_2d_visualization`.
 
 **Version 0.5.1** (2023/10/05)
 Improved the overall user experience in interactive visualizations.
 
 **Version 0.5.0** (2023/10/04)
-Added `continuous_pdf_3d_visualization`.
-
-**Version 0.4.1** (2023/10/03)
-Fixed several bugs in `continuous_pdf_2d_visualization`.
-
-**Version 0.4.0** (2023/10/02)
 Added `continuous_pdf_2d_visualization`.
 
+**Version 0.4.1** (2023/10/03)
+Fixed several bugs in `continuous_pdf_1d_visualization`.
+
+**Version 0.4.0** (2023/10/02)
+Added `continuous_pdf_1d_visualization`.
+
 **Version 0.3.1** (2023/10/01)
-Fixed several bugs in `discrete_pmf_3d_visualization`.
-
-**Version 0.3.0** (2023/09/30)
-Added `discrete_pmf_3d_visualization`.
-
-**Version 0.2.1** (2023/09/28)
 Fixed several bugs in `discrete_pmf_2d_visualization`.
 
-**Version 0.2.0** (2023/09/26)
+**Version 0.3.0** (2023/09/30)
 Added `discrete_pmf_2d_visualization`.
+
+**Version 0.2.1** (2023/09/28)
+Fixed several bugs in `discrete_pmf_1d_visualization`.
+
+**Version 0.2.0** (2023/09/26)
+Added `discrete_pmf_1d_visualization`.
 
 **Version 0.1.0** (2023/09/23)
 Implemented the visualization framework.
