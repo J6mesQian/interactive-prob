@@ -1,4 +1,4 @@
-# Visualization Tool README
+# PMF/PDF Visualization Tool README
 
 ## Overview
 

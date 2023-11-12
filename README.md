@@ -11,8 +11,10 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
 - [License](#license)
 
 ## Directory Structure
+- `bayesian_conjugacy_visualization`: Contains the Bayesian Conjugacy visualization tool.
+  - `bayesian_conjugacy_1d_visualization`: A 2D visualizer for 1D Bayesian Conjugacy.
 
-- `pdf_pmf_visualization/`: Contains the main visualization tools. 
+- `pdf_pmf_visualization/`: Contains the continuous and discrete PDF/PMF visualization tools.
   - `continuous_pdf_1d_visualization/`: A 2D visualizer for 1D continuous probability distributions.
   - `continuous_pdf_2d_visualization/`: A 3D visualizer for 2D continuous probability distributions.
   - `discrete_pmf_1d_visualization/`: A 2D visualizer for 1D discrete probability mass functions.
@@ -20,6 +22,21 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 1.5.1** (2023/11/12)
+Fixed several bugs in `bayesian_conjugacy_1d_visualization`.
+
+**Version 1.5.0** (2023/11/11)
+Added `Beta-Negative Binomial Conjugacy` in `bayesian_conjugacy_1d_visualization`.
+
+**Version 1.4.0** (2023/11/10)
+Added `Gamma-Poisson Conjugacy` in `bayesian_conjugacy_1d_visualization`.
+
+**Version 1.3.0** (2023/11/9)
+Added `Gaussian-Gaussian Conjugacy` in `bayesian_conjugacy_1d_visualization`.
+
+**Version 1.2.0** (2023/11/8)
+Added `Beta-Binomial Conjugacy` in `bayesian_conjugacy_1d_visualization`.
+
 **Version 0.5.6** (2023/10/25)
 Fixed several bugs in `continuous_pdf_1d_visualization` and `continuous_pdf_2d_visualization`.
 
@@ -71,13 +88,19 @@ git clone https://github.com/J6mesQian/interactive-prob
 2. Navigate to the desired sub-directory.
 3. Follow the README within each sub-directory for detailed instructions.
 
+## Prerequisites
+
+You can install the required packages using pip:
+
+```bash
+pip install numpy matplotlib ipywidgets scipy IPython
+```
+
 ## Example Visualizations
 
-Here's an example of a trinomial distribution and bivariate gaussian distribution visualization
+Here's an example of a trinomial distribution visualization
 
 ![Trinomial Distribution Visualization](pdf_pmf_visualization/assets/trinomial_visualization.png)
-
-![Bivariate Gaussian Distribution Visualization](pdf_pmf_visualization/assets/bivariate_gaussian_visualization.png)
 
 ## Contributing & Feedback
 
