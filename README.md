@@ -22,6 +22,9 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
+**Version 1.5.2** (2023/11/13)
+Fixed several bugs in `bayesian_conjugacy_1d_visualization`.
+
 **Version 1.5.1** (2023/11/12)
 Fixed several bugs in `bayesian_conjugacy_1d_visualization`.
 
