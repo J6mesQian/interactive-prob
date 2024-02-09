@@ -1,12 +1,26 @@
 # Interactive Probability Learning
 
-Welcome to the Interactive Probability Learning Project. This repository aims to provide intuitive visualizations and understanding of various Probability Distribution Functions (PDFs) and Probability Mass Functions (PMFs).
+Welcome to the Interactive Probability Learning Project.
+
+## Example Visualizations
+
+trinomial distribution:
+
+![Trinomial Distribution Visualization](pdf_pmf_visualization/assets/trinomial.png)
+
+bivariate normal distribution:
+![Bivariate Normal Distribution Visualization](pdf_pmf_visualization/assets/bivariate_gaussian.png)
+
+beta-binomial conjugacy:
+![Beta-Binomial Conjugacy Visualization](bayesian_conjugacy_visualization/assets/beta-binomial.png)
+
+guassian-guassian conjugacy:
+![Gaussian-Gaussian Conjugacy Visualization](bayesian_conjugacy_visualization/assets/gaussian-gaussian.png)
 
 ## Table of Contents
 - [Directory Structure](#directory-structure)
 - [Changelog](#changelog)
 - [Usage](#usage)
-- [Example Visualizations](#example-visualizations)
 - [Contributing & Feedback](#contributing--feedback)
 - [License](#license)
 
@@ -22,7 +36,10 @@ Welcome to the Interactive Probability Learning Project. This repository aims to
   - `assets/`: Contains various assets for the project such as example images.
 
 ## Changelog
-**Version 1.5.4** (2023/12/3)
+**Version 1.5.4** (2023/2/3)
+Improve the overall user experience in interactive visualizations.
+
+**Version 1.5.3** (2023/12/3)
 Improve the overall user experience in interactive visualizations.
 
 **Version 1.5.2** (2023/11/27)
@@ -104,12 +121,6 @@ You can install the required packages using pip:
 ```bash
 pip install numpy matplotlib ipywidgets scipy IPython
 ```
-
-## Example Visualizations
-
-Here's an example of a trinomial distribution visualization
-
-![Trinomial Distribution Visualization](pdf_pmf_visualization/assets/trinomial_visualization.png)
 
 ## Contributing & Feedback
 
