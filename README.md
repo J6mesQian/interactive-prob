@@ -4,17 +4,20 @@ Welcome to the Interactive Probability Learning Project.
 
 ## Example Visualizations
 
-trinomial distribution:
+#### trinomial distribution:
 
 ![Trinomial Distribution Visualization](pdf_pmf_visualization/assets/trinomial.png)
 
-bivariate normal distribution:
+#### bivariate normal distribution:
+
 ![Bivariate Normal Distribution Visualization](pdf_pmf_visualization/assets/bivariate_gaussian.png)
 
-beta-binomial conjugacy:
+#### beta-binomial conjugacy:
+
 ![Beta-Binomial Conjugacy Visualization](bayesian_conjugacy_visualization/assets/beta-binomial.png)
 
-guassian-guassian conjugacy:
+#### guassian-guassian conjugacy:
+
 ![Gaussian-Gaussian Conjugacy Visualization](bayesian_conjugacy_visualization/assets/gaussian-gaussian.png)
 
 ## Table of Contents
